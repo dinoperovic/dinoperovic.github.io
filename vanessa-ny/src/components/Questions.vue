@@ -99,6 +99,7 @@ export default {
 <style lang="sass" scoped>
 .title
   color: #F7BA2A
+  margin: 0
 
 .question
   color: #20A0FF

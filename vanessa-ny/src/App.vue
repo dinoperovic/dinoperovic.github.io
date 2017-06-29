@@ -65,7 +65,34 @@ export default {
           ['38', 'Kratke jakne'],
           ['51', 'Jeans'],
           ['15', 'Haljine']
-        ]}
+        ]},
+        {name: 'Smog', questions: [
+          ['05', 'Jeans'],
+          ['12', 'Kratke hlače'],
+          ['13', 'Hlače'],
+          ['19', 'Majica'],
+          ['20', 'Košulja'],
+          ['25', 'Sportska majica'],
+          ['26', 'Pulover, vesta'],
+          ['29', 'Jakne, prsluci'],
+          ['18', 'Sakoi']
+        ]},
+        {name: 'Dodaci', questions: [
+          ['17', 'Cipele'],
+          ['23', 'Cipele, remen, šeširi, šalovi'],
+          ['53', 'Sunglasses'],
+          ['56', 'Torbe'],
+          ['57', 'Šalovi, remeni, šeširi'],
+          ['58', 'Nakit'],
+          ['01', 'Sitnice'],
+          ['37', 'Razno'],
+        ]},
+        {name: 'Rublje', questions: [
+          ['22', 'Muško donje rublje'],
+          ['39', 'Žensko donje rublje'],
+          ['54', 'Ženski kupaći'],
+          ['55', 'Muški kupaći'],
+        ]},
       ]
     }
   },
