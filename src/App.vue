@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h1>Hi, my name is Dino Perovic.</h1>
-    <p>I'm a Full-Stack Django Web Developer.</p>
+    <p>I'm a Full-Stack Web Developer.</p>
     <p><a href="mailto:dino.perovic@gmail.com">dino.perovic@gmail.com</a></p>
   </div>
 </template>
